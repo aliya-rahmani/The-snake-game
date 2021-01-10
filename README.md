@@ -1,4 +1,4 @@
-# Snake Eater
+# Snake Game by @Aliya Rahmani
 A snake game written in Python using the PyGame library.
 
 
@@ -34,7 +34,7 @@ The rest of the code is properly commented and self explanatory. Tweaks can be m
 *Game over screen*
 
 
-## Prerequisites
+## Prerequisites  
 * [Python](https://www.python.org)
 * [Pygame](https://www.pygame.org/wiki/GettingStarted), an open source Python library for making multimedia applications
 
